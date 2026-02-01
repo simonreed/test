@@ -1,7 +1,7 @@
 {
   "$schema": "https://minimaldocs.com/docs.json",
   "theme": "default",
-  "name": "MinimalDocs Starter Kit",
+  "name": "test",
   "colors": {
     "primary": "#3B82F6",
     "light": "#60A5FA",
@@ -102,15 +102,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
